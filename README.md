@@ -1,5 +1,10 @@
 # 🛡️ Guardian-OT
 
+![ICS-Security](https://img.shields.io/badge/Focus-ICS%20Security-red)
+![Forensics](https://img.shields.io/badge/Type-Forensics-blue)
+![OT](https://img.shields.io/badge/Environment-OT-orange)
+![Research](https://img.shields.io/badge/Project-404saint-lightgrey)
+
 **Guardian-OT** is a hardware-aware forensic engine designed to validate the integrity of removable media before deployment in high-consequence **Industrial Control Systems (ICS)** and **Operational Technology (OT)** environments.
 
 It moves beyond signature-based detection, focusing on **hardware identity**, **structural integrity**, and **entropy-based anomaly detection**.
