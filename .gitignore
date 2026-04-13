@@ -1,8 +1,11 @@
-# Python
-__pycache__/
+# Python environment
 venv/
+__pycache__/
 *.pyc
 
-# Guardian-OT Local Data
-vault.db
+# Local Data (Crucial to ignore)
+data/guardian_vault.db
 reports/
+
+# Temporary/Empty folders
+utils/
